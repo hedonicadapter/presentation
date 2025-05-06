@@ -13,8 +13,9 @@ Under vår första LIA hade vi en mentor som heter Jimmy – han var ett stort s
 (CAF bild) Han visade oss denna bilden under första veckan. Skrämmande, men nu förstår vi den och kan se hur mycket vi lärt oss under vår LIA.
  
 ## Kulturen och möjligheterna på Xenit (Sam)
-- Xenit jobbar inte bara inom Azure
-- utveckling, nätverk, MS365, sälj, och mer
+- inte bara Azure
+- utveckling, nätverk, MS365, sälj, och mer, 
+- fick reda på att de gjorde frontend förra månaden
 - uppmuntrar personlig utveckling, roadmap
 - folk tycker om att hjälpa och lära ut
 - mentorskap
@@ -25,13 +26,11 @@ Under vår första LIA hade vi en mentor som heter Jimmy – han var ett stort s
 - LIA 1: terraform-moduler till AVM
 - LIA 2: subscription vending
  
- 
 ## Vår resa
 - MAGNUS: Under LIA 2 har vi fått komma in mer i teamen och jobbat mot kunder istället för projektarbetet.
 - MAGNUS: Och jag har hamnat i team Infrastructure, där jag jobbar mer med infrastruktur, nätverk och Infrastructure as Code.
 - SAM: team native
 - SAM: certifieringar
- 
  
 ## Avslutning (Sam)
 - tacksamma för xenit, magnus och angela
